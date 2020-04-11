@@ -6,9 +6,8 @@
  * You can modify this file if needed.             *
  ***************************************************/
 
-class Sudoku
-{
-public:
+class Sudoku {
+  public:
     Sudoku();
 
     // generate
